@@ -1,3 +1,8 @@
+"""
+This code was
+"""
+
+
 from PIL import Image
 import os
 import sys
